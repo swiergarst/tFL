@@ -8,7 +8,7 @@ source $CONDA_BASE/etc/profile.d/conda.sh
 conda activate flower
 
 
-nc=3
+nc=500
 K=1
 gamma=1
 
